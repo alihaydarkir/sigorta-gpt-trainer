@@ -1,0 +1,1 @@
+# sigorta-gpt-trainer
