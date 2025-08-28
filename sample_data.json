@@ -1,0 +1,26 @@
+[
+  {
+    "input": "Aktüerler Sicili kimde tutulur?",
+    "output": "Aktüerler Sicili Müsteşarlık tarafından tutulur. Sicile kaydolmadan aktüerlik yapılamaz."
+  },
+  {
+    "input": "Broker kimdir?",
+    "output": "Broker, sigorta veya reasürans sözleşmesi yaptırmak isteyenleri temsil ederek, bu sözleşmelerin yaptırılacağı şirketlerin seçiminde tamamen tarafsız ve bağımsız davranan kişidir."
+  },
+  {
+    "input": "Minimum garanti fonu nedir?",
+    "output": "Minimum garanti fonu, sigorta şirketleri ile reasürans şirketleri için gerekli özsermayenin en az üçte birine denk düşen tutardır."
+  },
+  {
+    "input": "Sigorta şirketleri hangi şekillerde kurulabilir?",
+    "output": "Sigorta şirketleri anonim şirket veya kooperatif şeklinde kurulabilir. Sigortacılık işlemleri ve bunlarla doğrudan bağlantısı bulunan işler dışında başka işle iştigal edemezler."
+  },
+  {
+    "input": "Zorunlu sigortalar kimler tarafından ihdas edilir?",
+    "output": "Cumhurbaşkanı, kamu yararı açısından gerekli gördüğü hallerde zorunlu sigortalar ihdas edebilir."
+  },
+  {
+    "input": "Güvence Hesabı nedir?",
+    "output": "Güvence Hesabı, zorunlu sorumluluk sigortalarında ortaya çıkan zararların bu sigortalarla saptanan geçerli teminat miktarlarına kadar karşılanması amacıyla oluşturulan hesaptır."
+  }
+]
